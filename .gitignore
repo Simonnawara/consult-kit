@@ -1,0 +1,7 @@
+# Consult Kit outputs
+# The folders are tracked (via .gitkeep) but generated files are not.
+# Remove these rules if you want to commit engagement outputs to the repo.
+outputs/audit/*
+outputs/estimate/*
+!outputs/audit/.gitkeep
+!outputs/estimate/.gitkeep
