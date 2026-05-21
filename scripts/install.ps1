@@ -8,7 +8,7 @@ param(
 )
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-$RepoUrl = "https://github.com/YOUR_USERNAME/consult-kit"
+$RepoUrl = "https://github.com/Simonnawara/consult-kit"
 $Branch  = "main"
 # ─────────────────────────────────────────────────────────────────────────────
 

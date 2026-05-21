@@ -7,7 +7,7 @@
 set -euo pipefail
 
 # ── Configuration ────────────────────────────────────────────────────────────
-REPO_URL="https://github.com/YOUR_USERNAME/consult-kit"
+REPO_URL="https://github.com/Simonnawara/consult-kit"
 BRANCH="main"
 # ─────────────────────────────────────────────────────────────────────────────
 
